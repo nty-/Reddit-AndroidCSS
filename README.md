@@ -24,9 +24,9 @@ How to set it up:
 6. Customize the colors! 
    There are two color's you'll need to change:
    
-   -The first is the header color. This color is only appears once in the CSS.
-   -The second is the accent/secondary color. You'll need to change this color in three places. 
-   -All of them and the header color can be found in the customization section a the top.
+   - The first is the header color. This color is only appears once in the CSS.
+   - The second is the accent/secondary color. You'll need to change this color in three places. 
+   - All of them and the header color can be found in the customization section a the top.
    
 
 
